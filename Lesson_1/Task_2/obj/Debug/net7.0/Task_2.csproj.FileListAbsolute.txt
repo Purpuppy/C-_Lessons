@@ -1,0 +1,14 @@
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.exe
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.deps.json
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.dll
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.pdb
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.dll
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.pdb
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\Users\VladZ\Desktop\C#Lesson\Lesson_1\Task_2\obj\Debug\net7.0\ref\Task_2.dll
