@@ -1,5 +1,5 @@
 ﻿int a = 10;
-int b = 20;
+int b = 4;
 
 if (a > b)
 {
@@ -7,5 +7,5 @@ if (a > b)
 }
 else
 {
-    Console.WriteLine(b);
+    Console.WriteLine();
 }
