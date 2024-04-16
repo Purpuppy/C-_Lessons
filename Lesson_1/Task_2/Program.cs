@@ -17,3 +17,11 @@ double sum_6 = b * a_3;
 Console.WriteLine(sum_4);
 Console.WriteLine(sum_5);
 Console.WriteLine(sum_6);
+
+int quotient = a / b;
+Console.WriteLine(quotient);
+
+a_3 = 2.6;
+double quotient_sum = a_1 / a_3;
+Console.WriteLine(quotient_sum);
+
